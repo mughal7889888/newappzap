@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Auto Cut Out Background Eraser and Editor'
